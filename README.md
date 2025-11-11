@@ -10,5 +10,5 @@ Check back soon for updates!
 
 ---
 
-*Repository:* [`causalMedAnalysis.github.io`](https://github.com/causalMedAnalysis/causalMedAnalysis.github.io)  
+*Repository:* [`causalMedAnalysis`](https://github.com/causalMedAnalysis)  
 *Live site:* [https://causalMedAnalysis.github.io](https://causalMedAnalysis.github.io)
