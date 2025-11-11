@@ -1,0 +1,27 @@
+title: "Causal Mediation Analysis"
+description: "Resources, software, and replication materials for the book *Causal Mediation Analysis*."
+theme: jekyll-theme-cayman
+
+# Optional site settings
+author: "Causal Mediation Analysis Team"
+url: "https://causalMedAnalysis.github.io"
+github_username: causalMedAnalysis
+
+# Navigation links (optional, can appear in header if your theme supports it)
+nav_links:
+  - title: "Stata Module"
+    url: "https://github.com/causalMedAnalysis/cmed"
+  - title: "R Package"
+    url: "https://github.com/causalMedAnalysis/cmedR"
+  - title: "Replication Files"
+    url: "https://github.com/causalMedAnalysis/repFiles"
+
+# Markdown options
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files that shouldn't be processed
+exclude:
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
