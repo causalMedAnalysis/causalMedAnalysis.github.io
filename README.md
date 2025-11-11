@@ -1,11 +1,13 @@
 ---
 title: Causal Mediation Analysis
-description: Resources, software, and replication files for the book *Causal Mediation Analysis*.
+description: 
 ---
 
 # *Causal Mediation Analysis*
 
-*Causal Mediation Analysis* (Wodtke and Zhou 2026, Cambridge University Press) is a comprehensive guide to understanding why an exposure affects an outcome. It explains how to decompose causal effects into the pathways and mechanisms through which they operate, starting from simple, intuitive applications and building up to more complex designs. Drawing on applications from sociology, psychology, political science, and economics, the book shows how to bring cutting-edge mediation methods into real empirical research.
+This website contains resources, software, and replication files for the book *Causal Mediation Analysis* (Wodtke and Zhou Forthcoming, Cambridge University Press).
+
+*Causal Mediation Analysis* is a comprehensive guide to understanding why an exposure affects an outcome. It explains how to decompose causal effects into the pathways through which they operate, starting from simple, intuitive applications and building up to more complex designs. Drawing on applications from sociology, psychology, political science, and economics, the book shows how to bring cutting-edge methods into empirical research on mediation.
 
 ## Software & Resources
 
