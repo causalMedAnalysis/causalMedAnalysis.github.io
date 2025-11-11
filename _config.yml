@@ -1,9 +1,9 @@
 title: "Causal Mediation Analysis"
-description: "Resources, software, and replication materials for the book *Causal Mediation Analysis*."
+description: "Resources, software, and replication materials"
 theme: jekyll-theme-cayman
 
 # Optional site settings
-author: "Causal Mediation Analysis Team"
+author: "Causal Mediation Analysis Authors"
 url: "https://causalMedAnalysis.github.io"
 github_username: causalMedAnalysis
 
