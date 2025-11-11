@@ -14,7 +14,7 @@ Below are the main online resources that accompany the book.
 ### 1. The cmed stata module
 `cmed` is a Stata module for conducting causal mediation analysis using the methods described in the book.
 
-**Stata module repo:** https://github.com/causalMedAnalysis/cmed
+**Stata module repository:** https://github.com/causalMedAnalysis/cmed
 
 **Installation (within Stata):**
 ```
@@ -27,7 +27,7 @@ github install causalMedAnalysis/cmed
 ### 2. The cmedR R Package
 `cmedR` is a R package for conducting causal mediation analysis using the methods described in the book. It duplicates the functionality of the `cmed` Stata module and additionally includes several other features, like support for parallel processing. 
 
-**R package repo:** https://github.com/causalMedAnalysis/cmedR
+**R package repository:** https://github.com/causalMedAnalysis/cmedR
 
 **Installation (within R):**
 ```
@@ -37,7 +37,7 @@ install_github("causalMedAnalysis/cmedR")
 
 ---
 
-### 3. Replication Files (Stata & R)
+### 3. Replication Files
 Data and code in both Stata and R for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) outlined above.
 
 **Replication repository:** https://github.com/causalMedAnalysis/repFiles
