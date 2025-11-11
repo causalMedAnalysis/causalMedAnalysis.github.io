@@ -5,8 +5,8 @@ This is the website for our book.
 ---
 
 ### 🚧 Under Construction
-I’m setting things up right now.  
-Check back soon for updates and new content!
+We are setting things up right now.  
+Check back soon for updates!
 
 ---
 
