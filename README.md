@@ -1,8 +1,3 @@
----
-title: Causal Mediation Analysis
-description: Resources, software, and replication files for the book *Causal Mediation Analysis*.
----
-
 # *Causal Mediation Analysis*
 
 This website contains resources, software, and replication files for the book *Causal Mediation Analysis* (Wodtke and Zhou Forthcoming, Cambridge University Press).
