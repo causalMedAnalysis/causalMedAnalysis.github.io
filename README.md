@@ -50,5 +50,5 @@ Data and code for reproducing the analyses in the book, using the Stata module (
 
 ---
 
-Maintained by the authors of *Causal Mediation Analysis*.  
+Maintained by [Geoff Wodtke](https://stonecenter.uchicago.edu/people/geoff-wodtke/) and [Xiang Zhou](https://xzhou.scholars.harvard.edu/).  
 To report issues, please email causalmed (at) gmail (dot) com.
