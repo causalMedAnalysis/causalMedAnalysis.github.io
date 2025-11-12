@@ -2,6 +2,8 @@ This website contains statistical software and replication materials for the boo
 
 *Causal Mediation Analysis* is a comprehensive guide to understanding why an exposure affects an outcome. It explains how to decompose causal effects into the pathways through which they operate, starting from simple, intuitive applications and building up to more complex designs. Drawing on applications from sociology, psychology, political science, and economics, the book shows how to bring cutting-edge methods into empirical research on mediation.
 
+---
+
 ## Software & Resources
 
 Below are the online resources that accompany the book.
@@ -17,8 +19,6 @@ net install github, from("https://haghish.github.io/github/")
 github install causalMedAnalysis/cmed
 ```
 
----
-
 ### 2. The cmedR R Package
 `cmedR` is an R package for conducting causal mediation analysis using the methods described in the book. It can estimate natural, controlled, interventional, and path-specific effects using a variety of different approaches, including regression, weighting, simulation, multiply robust, and de-biased machine learning methods. It essentially duplicates the functionality of the `cmed` Stata module while additionally including several other features, like support for parallel processing. 
 
@@ -29,8 +29,6 @@ github install causalMedAnalysis/cmed
 library(devtools)
 install_github("causalMedAnalysis/cmedR")
 ```
-
----
 
 ### 3. Replication Files
 Data and code for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) introduced above.
@@ -45,7 +43,7 @@ Data and code for reproducing the analyses in the book, using the Stata module (
 
 1. Start with the book to understand methods for analyzing causal mediation.
 2. Install the Stata module or R package following the instructions above.
-3. Use the replication files to run the scripts and implement the workflow in the book.
+3. Use the replication files to run the scripts and implement the workflow from the book.
 4. Adapt the code to your own data and applications.
 
 ---
