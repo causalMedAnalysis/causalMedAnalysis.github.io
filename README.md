@@ -4,9 +4,9 @@ This website contains statistical software and replication materials for the boo
 
 ## Software & Resources
 
-Below are the main online resources that accompany the book.
+Below are the online resources that accompany the book.
 
-### 1. The cmed stata module
+### 1. The cmed Stata Module
 `cmed` is a Stata module for conducting causal mediation analysis using the methods described in the book.
 
 **Stata module repository:** <https://github.com/causalMedAnalysis/cmed>
@@ -33,7 +33,7 @@ install_github("causalMedAnalysis/cmedR")
 ---
 
 ### 3. Replication Files
-Data and code in both Stata and R for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) outlined above.
+Data and code in both Stata and R for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) introduced above.
 
 **Replication repository:** <https://github.com/causalMedAnalysis/repFiles>
 
@@ -43,7 +43,7 @@ Data and code in both Stata and R for reproducing the analyses in the book, usin
 
 1. Start with the book to understand methods for analyzing causal mediation.
 2. Install the Stata module or R package following the instructions above.
-3. Use the replication repo to run the scripts and implement the workflow in the book.
+3. Use the replication files to run the scripts and implement the workflow in the book.
 4. Adapt the code to your own data and applications.
 
 ---
