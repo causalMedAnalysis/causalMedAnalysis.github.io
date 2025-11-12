@@ -33,11 +33,11 @@ install_github("causalMedAnalysis/cmedR")
 ---
 
 ### 3. Replication Files
-Data and code in both Stata and R for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) introduced above.
+Data and code for reproducing the analyses in the book, using the Stata module (`cmed`) and R package (`cmedR`) introduced above.
 
 **Replication repository:** <https://github.com/causalMedAnalysis/repFiles>
 
-[Click to Download All Replication Files](https://github.com/causalMedAnalysis/repFiles/archive/refs/heads/main.zip)
+[**Click Here to Download All Replication Files**](https://github.com/causalMedAnalysis/repFiles/archive/refs/heads/main.zip)
 
 ---
 
