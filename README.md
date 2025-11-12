@@ -37,6 +37,8 @@ Data and code in both Stata and R for reproducing the analyses in the book, usin
 
 **Replication repository:** <https://github.com/causalMedAnalysis/repFiles>
 
+[Click to Download All Replication Files](https://github.com/causalMedAnalysis/repFiles/archive/refs/heads/main.zip)
+
 ---
 
 ## How to Use This Material
