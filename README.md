@@ -7,7 +7,7 @@ This website contains statistical software and replication materials for the boo
 Below are the online resources that accompany the book.
 
 ### 1. The cmed Stata Module
-`cmed` is a Stata module for conducting causal mediation analysis using the methods described in the book.
+`cmed` is a Stata module for conducting causal mediation analysis using the methods described in the book. It can estimate natural, controlled, interventional, and path-specific effects using a variety of different approaches, including regression, weighting, simulation, multiply robust, and de-biased machine learning methods.
 
 **Stata module repository:** <https://github.com/causalMedAnalysis/cmed>
 
@@ -20,7 +20,7 @@ github install causalMedAnalysis/cmed
 ---
 
 ### 2. The cmedR R Package
-`cmedR` is a R package for conducting causal mediation analysis using the methods described in the book. It duplicates the functionality of the `cmed` Stata module and additionally includes several other features, like support for parallel processing. 
+`cmedR` is an R package for conducting causal mediation analysis using the methods described in the book. It can estimate natural, controlled, interventional, and path-specific effects using a variety of different approaches, including regression, weighting, simulation, multiply robust, and de-biased machine learning methods. It essentially duplicates the functionality of the `cmed` Stata module but additionally includes several other features, like support for parallel processing. 
 
 **R package repository:** <https://github.com/causalMedAnalysis/cmedR>
 
