@@ -51,7 +51,7 @@ Data and code for reproducing the analyses in the book, using the Stata module (
 
 When using `cmed` or `cmedR`, please include the following citation:
 
-Wodtke, Geoffrey T., and Xiang Zhou. 2026. *Causal Mediation Analysis*. Cambridge University Press.
+Wodtke, Geoffrey T. and Xiang Zhou. 2026. *Causal Mediation Analysis*. Cambridge University Press.
 
 Or use the following bibtex entry:
 ```
