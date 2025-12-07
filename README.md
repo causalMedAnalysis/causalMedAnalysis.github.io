@@ -1,4 +1,4 @@
-This website contains statistical software and replication materials for the book [Causal Mediation Analysis](https://www.cambridge.org/us/universitypress/subjects/social-science-research-methods/quantitative-methods/causal-mediation-analysis) (Wodtke and Zhou Forthcoming, Cambridge University Press).
+This website contains statistical software and replication materials for the book [Causal Mediation Analysis](https://www.cambridge.org/us/universitypress/subjects/social-science-research-methods/quantitative-methods/causal-mediation-analysis) (Wodtke and Zhou 2026, Cambridge University Press).
 
 *Causal Mediation Analysis* is a comprehensive guide to understanding why an exposure affects an outcome. It explains how to decompose causal effects into the pathways through which they operate, starting from simple, intuitive applications and building up to more complex designs. Drawing on applications from sociology, psychology, political science, and economics, the book shows how to bring cutting-edge methods into empirical research on mediation.
 
@@ -44,6 +44,24 @@ Data and code for reproducing the analyses in the book, using the Stata module (
 2. Install the Stata module or R package following the instructions above.
 3. Use the replication files to run the scripts and implement the workflow from the book.
 4. Adapt the code to your own data and applications.
+
+---
+
+## How to Cite This Material
+
+When using `cmed` or `cmedR`, please include the following citation:
+
+Wodtke, Geoffrey T., and Xiang Zhou. 2026. *Causal Mediation Analysis*. Cambridge University Press.
+
+Or use the following bibtex entry:
+```
+@book{wodtke_zhou_2026_causalmed,
+  author    = {Wodtke, Geoffrey T and Zhou, Xiang},
+  title     = {Causal Mediation Analysis},
+  year      = {2026},
+  publisher = {Cambridge University Press}
+}
+```
 
 ---
 
