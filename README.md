@@ -15,12 +15,11 @@ Below are the online resources that accompany the book.
 
 **Installation (within Stata):**
 ```
-net install github, from("https://haghish.github.io/github/")
-github install causalMedAnalysis/cmed
+net install cmed, from("https://raw.github.com/causalMedAnalysis/cmed/master/") replace
 ```
 
 ### 2. The cmedR R Package
-`cmedR` is an R package for conducting causal mediation analysis using the methods described in the book. It can estimate natural, controlled, interventional, and path-specific effects using a variety of different approaches, including regression, weighting, simulation, multiply robust, and de-biased machine learning methods. It essentially duplicates the functionality of the `cmed` Stata module while additionally including several other features, like support for parallel processing. 
+`cmedR` is an R package for conducting causal mediation analysis using the methods described in the book. It can estimate natural, controlled, interventional, and path-specific effects using a variety of different approaches, including regression, weighting, simulation, multiply robust, and de-biased machine learning methods. It essentially duplicates the functionality of the `cmed` Stata module while additionally including several other features, like support for more flexible model specification and super learners for de-biased machine learning. 
 
 **R package repository:** <https://github.com/causalMedAnalysis/cmedR>
 
